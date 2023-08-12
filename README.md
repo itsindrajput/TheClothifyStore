@@ -32,7 +32,6 @@ To explore our E-Commerce website and see it in action, follow these steps:
    ```
    https://github.com/itsindrajput/TheClothifyStore.git
    ```
-
 2. Navigate to the Directory: Open the cloned directory in your preferred code editor.
 
 3. Launch the Website: Open the `index.html` file in a web browser to experience The Clothify Store's online shopping interface.
