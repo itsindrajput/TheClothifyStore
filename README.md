@@ -1,4 +1,4 @@
-# The Clothify Store - E-Commerce Website
+# The Clothify Store
 
 👋 Welcome to The Clothify Store GitHub repository! Here you'll find the source code for our E-Commerce online shopping website developed using HTML, CSS, JavaScript, and Bootstrap. The Clothify Store is all about bringing fashion to your fingertips and enhancing your online shopping experience for clothes. 🛍️
 The Clothify Store is an E-Commerce online shopping sites in India for clothes.
@@ -30,7 +30,7 @@ To explore our E-Commerce website and see it in action, follow these steps:
 
 1. Clone the Repository: Clone this GitHub repository to your local machine using the following command:
    ```
-   git clone [https://github.com/YourUsername/TheClothifyStore.git](https://github.com/itsindrajput/TheClothifyStore.git)
+   https://github.com/itsindrajput/TheClothifyStore.git
    ```
 
 2. Navigate to the Directory: Open the cloned directory in your preferred code editor.
@@ -46,7 +46,6 @@ Visit our website at:
 - 🌐 https://theclothifystore.netlify.app/
 - 🌐 https://itsindrajput.github.io/TheClothifyStore/
 
-Thank you for being a part of The Clothify Store's online shopping revolution. 
-Happy shopping and stay stylish! 👗👚👖👕👔👗
+Thank you for being a part of The Clothify Store's online shopping revolution. Happy shopping and stay stylish! 👗👚👖👕👔👗
 
 ![TheClothifyStore](https://user-images.githubusercontent.com/70815899/183290324-3cb85062-49be-49f4-82a8-71ec53f78c70.png)
